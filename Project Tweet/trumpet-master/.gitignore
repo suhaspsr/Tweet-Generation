@@ -1,0 +1,6 @@
+env/
+!cache
+cache/*
+!cache/model
+cache/model/*
+!.gitkeep
